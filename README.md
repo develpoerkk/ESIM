@@ -1,4 +1,7 @@
 # ESIM - Enhanced Sequential Inference Model
+## Need Fix:
+### 1. Unreasonable OOV embedding init. 
+### 2. Perfomrmance Drop crazy when batch is very large.
 Implementation of the ESIM model for natural language inference with PyTorch
 
 This repository contains an implementation with PyTorch of the sequential model presented in the paper 
